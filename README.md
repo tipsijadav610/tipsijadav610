@@ -8,5 +8,5 @@
 
 
 # How to reach me 📫
-[![Linkedin](https://github.com/tipsijadav610/tipsijadav610/blob/main/blob/main/LOGOS/linkedin.png)](https://www.linkedin.com/in/tipsi-jadav)
-[![Twitter](https://github.com/tipsijadav610/tipsijadav610/blob/main/blob/main/LOGOS/twitter.png)](https://twitter.com/tipsi_jadav610)
+[![Linkedin](https://github.com/tipsijadav610/tipsijadav610/blob/main/LOGOS/linkedin.png)](https://www.linkedin.com/in/tipsi-jadav)
+[![Twitter](https://github.com/tipsijadav610/tipsijadav610/blob/main/LOGOS/twitter.png)](https://twitter.com/tipsi_jadav610)

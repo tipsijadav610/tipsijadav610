@@ -3,8 +3,8 @@
 </p>
 
 # My GitHub Stats 📊
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tipsijadav610&show_icons=true&theme=radical&&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tipsijadav610&theme=radical&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tipsijadav610&show_icons=true&theme=solarized-light&&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tipsijadav610&theme=solarized-light&layout=compact)
 
 # How to reach me 📫
 [![Linkedin](https://github.com/tipsijadav610/tipsijadav610/blob/main/LOGOS/linkedin.png)](https://www.linkedin.com/in/tipsi-jadav)
